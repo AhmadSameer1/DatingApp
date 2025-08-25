@@ -1,0 +1,35 @@
+# ===== Node / Angular =====
+node_modules/
+dist/
+.tmp/
+out-tsc/
+
+# Angular cache
+.client/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== .NET / C# =====
+bin/
+obj/
+*.db
+*.db-wal
+*.db-shm
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.idea/
+
+# Environment
+*.env
+*.env.*
